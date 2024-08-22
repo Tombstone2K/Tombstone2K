@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Rust and Hadoop**
 
-- 👨‍💻 All of my projects are available at [rajhariya.com (Coming Soon)](www.rajhariya.com)
+- 👨‍💻 [My Personal Portfolio Website](https://raj-hariya.vercel.app)
   
 - 📫 How to reach me **raj.hariya@gmail.com**
 
